@@ -29,4 +29,3 @@ This Hospital Management System streamlines treatment scheduling, ensuring that 
 
 ---
 
-Feel free to customize this README with specific implementation details, setup instructions, or additional project-specific information as needed.
